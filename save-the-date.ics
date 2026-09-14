@@ -1,0 +1,16 @@
+BEGIN:VCALENDAR
+VERSION:2.0
+PRODID:-//MK//SaveTheDate//EN
+CALSCALE:GREGORIAN
+METHOD:PUBLISH
+BEGIN:VEVENT
+UID:mk-std-20270821@mikaanddino.com
+DTSTAMP:20260914T000000Z
+DTSTART;VALUE=DATE:20270821
+DTEND;VALUE=DATE:20270822
+SUMMARY:Mika & Konstantinos — Wedding
+LOCATION:The Athens Riviera\, Greece
+DESCRIPTION:Save the date — invitation to follow. mikaanddino.com
+URL:https://mikaanddino.com
+END:VEVENT
+END:VCALENDAR
